@@ -1,0 +1,20 @@
+h2 {
+    color: black;
+}
+
+.container-fluid {
+    align-items: center;
+}
+
+.form-container {
+    width: 400px;
+    margin: auto;
+    margin-top: 2in;
+    background-color: aquamarine;
+}
+
+.form-group {
+    margin: auto;
+    margin-top: 10px;
+    width: 350px;
+}
